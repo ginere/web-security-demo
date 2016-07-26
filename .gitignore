@@ -2,6 +2,12 @@
 /work
 /webapp/WEB-INF/classes
 /webapp/WEB-INF/lib
+
+.classpath
+.project
+.settings
+.tomcatplugin
+
 *.class
 
 # Mobile Tools for Java (J2ME)
